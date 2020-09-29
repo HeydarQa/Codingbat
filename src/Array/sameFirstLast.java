@@ -1,4 +1,4 @@
-package day01_Array_1;
+package Array;
 
 import java.util.Arrays;
 

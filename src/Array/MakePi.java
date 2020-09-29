@@ -1,6 +1,4 @@
-package day01_Array_1;
-
-import java.util.Arrays;
+package Array;
 
 public class MakePi {
 
